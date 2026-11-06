@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
